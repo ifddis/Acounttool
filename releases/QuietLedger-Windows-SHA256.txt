@@ -1,0 +1,2 @@
+91a2a8b168883ab89b77035ed050385925d5ee83fb617164e8c0c85d0f21be11  QuietLedger-Windows-1.1-x64.exe
+3723f2768dedb066b36f1e9f9e3352ad5a3535f4c99fb4b9999d6fbf422e57e8  QuietLedger-Windows-1.1-x64.zip
